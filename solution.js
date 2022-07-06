@@ -1,8 +1,8 @@
 console.log(3 == "3");
 console.log(3 === "3");
-// all of the above
-// none of the above
-// a
+console.log(2);
+console.log(7);
+console.log(9);
 
 let myVar = true;
 
